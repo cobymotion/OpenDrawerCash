@@ -1,0 +1,9 @@
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\bin\Debug\OpenDrawerCash.exe.config
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\bin\Debug\OpenDrawerCash.exe
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\bin\Debug\OpenDrawerCash.pdb
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\obj\Debug\OpenDrawerCash.Form1.resources
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\obj\Debug\OpenDrawerCash.Properties.Resources.resources
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\obj\Debug\OpenDrawerCash.csproj.GenerateResource.Cache
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\obj\Debug\OpenDrawerCash.exe
+c:\users\tecnologico\documents\visual studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\obj\Debug\OpenDrawerCash.pdb
+C:\Users\tecnologico\Documents\Visual Studio 2012\Projects\OpenDrawerCash\OpenDrawerCash\obj\Debug\OpenDrawerCash.csprojResolveAssemblyReference.cache
